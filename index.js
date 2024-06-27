@@ -8,3 +8,4 @@ let resultado = Math.pow(base, expoente);
 console.log(`O resultado de ${base} elevado a 
 ${expoente} é ${resultado}`)
 
+
